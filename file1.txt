@@ -1,2 +1,4 @@
 add new file1.txt 
 edit lagi file1 lho
+edit file1.txt.....hahahahhhah
+lagi belajar git ini
